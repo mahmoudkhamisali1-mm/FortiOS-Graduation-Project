@@ -31,7 +31,7 @@ VPC1 (192.168.10.10)
 
 **EVE-NG topology screenshot:**
 
-![Topology](images/topology.png)
+![Topology](topology.png)
 
 ## 3. IP Addressing
 
